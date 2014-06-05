@@ -1,4 +1,4 @@
-Accessibilité numérique – Liens et références
+Accessibilité numérique, de quoi on parle ?
 ===================================
 
 ## À propos
@@ -16,6 +16,11 @@ Cette page a pour but de relayer les informations liées à la conférence « Ac
 * Formation
 * Zoom sur…
  * Le contraste de texte
+
+### Accessibilité numérique 
+
+* [Vulgariser l'accessibilité](http://blog.temesis.com/post/2006/10/31/193-vulgariser-l-accessibilite)
+* [Plonger dans l'accessibilité](http://www.la-grange.net/accessibilite/)
 
 ### Chiffres
 
