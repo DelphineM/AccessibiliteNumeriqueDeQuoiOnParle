@@ -3,11 +3,11 @@ Accessibilité numérique, de quoi on parle ?
 
 ## À propos
 
-Cette page a pour but de relayer les informations liées à la conférence « Accessibilité numérique, mais au fait de quoi on parle ? », présentée à Accessiday, le 28 mai 2014.
+Cette page a pour but de relayer les informations liées à la conférence «&nbsp;[Accessibilité numérique, mais au fait de quoi on parle ?](http://fr.slideshare.net/DelphineMalassingne/accessibilit-numrique-mais-au-fait-de-quoi-on-parle-accessiday-mai-2014-caen-france)&nbsp;», présentée à Accessiday, le 28 mai 2014.
 
 
 ## Liens
-
+Sommaire : 
 * Chiffres
 * Méthode
 * Veille
