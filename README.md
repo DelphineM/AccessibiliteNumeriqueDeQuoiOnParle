@@ -5,12 +5,31 @@ Accessibilité numérique – Liens et références
 
 Cette page a pour but de relayer les informations liées à la conférence « Accessibilité numérique, mais au fait de quoi on parle ? », présentée à Accessiday, le 28 mai 2014.
 
-Contenu distribué sous licence CC-BY-SA.
-Ca veut dire que vous avez le droit de l'utiliser et de le modifier du moment que vous en indiquez la source (http://delphinem.github.io/AccessibiliteNumeriqueDeQuoiOnParle/) et que vous le partagiez dans les mêmes conditions.
 
 ## Liens
 
-* ___
+* Chiffres
+* Méthode
+* Veille
+* Conférences
+* Outils
+* Formation
+* Zoom sur…
+ * Le contraste de texte
+
+### Chiffres
+
+* [Démographie et vieillissement, éléments de cadrage](http://www.slideshare.net/slidesharefing/g-delcroix)
+* [Les chiffres du handicap en France, 2004](http://www.webaccessibilite.fr/les-chiffres-du-handicap-en-France-2009-08-17.php)
+* [La France compte plus de 32 millions de mobinautes, 2012](http://www.proximamobile.fr/article/la-france-compte-plus-de-32-millions-de-mobinautes)
+
+
+### Méthode
+* [Intégrer l’accessibilité dans une démarche qualité](http://articles.nissone.com/2011/04/integrer-accessibilite-dans-demarche-qualite-resume/)
+* [L’accessibilité agile](http://openweb.eu.org/articles/accessibilite_agile)
+* [Accessibilité du Web : les pièges les plus fréquents](http://openweb.eu.org/articles/planifier_accessibilite)
+* [Sensibiliser à l’accessibilité : dans la peau de l’utilisateur](http://accessiblog.fr/2014/05/sensibiliser-accessibilite-dans-la-peau-utilisateur/)
+* [L'accessibilité : un outil de compréhension et de conception](http://blog.temesis.com/post/2014/05/12/L-accessibilite-un-outil-de-comprehension-du-Web)
 
 ### Veille
 
@@ -33,6 +52,7 @@ Ca veut dire que vous avez le droit de l'utiliser et de le modifier du moment qu
 ### Conférences
 * [Liste de conférences en français sur l'accessibilité](http://lanyrd.com/guides/web-accessibility-conferences-in-french/)
 * Forum Européen de l'Accessibilité Numérique – [Édition 2014](http://inova.snv.jussieu.fr/evenements/colloques/colloques/82_index_fr.html)
+* [Accessiday](http://www.accessiday.fr/)
 
 ### Spécifications et méthodes d'applications
 * [WCAG](http://www.w3.org/Translations/WCAG20-fr/)
@@ -54,5 +74,10 @@ Ca veut dire que vous avez le droit de l'utiliser et de le modifier du moment qu
 ### Formation
 * [Accessiweb](http://www.accessiweb.org/index.php/Formations.html)
 * [Atalan](http://www.atalan.fr/fr/formation_accessibilite_web/)
-* [Qelios](http://www.qelios.net/formation.htm Temesis http://temesis.com/formation/)
+* [Qelios](http://www.qelios.net/formation.htm)
+* [Temesis](http://temesis.com/formation/)
 
+### Zoom sur…
+
+#### Le contraste de texte
+* [À propos du contraste de couleurs de texte](http://www.ekino.com/a-propos-du-contraste-de-couleurs-de-texte)
