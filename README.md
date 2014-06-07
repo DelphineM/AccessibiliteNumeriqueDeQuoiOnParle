@@ -86,4 +86,5 @@ Sommaire :
 ### Zoom sur…
 
 #### Le contraste de texte
+À l'occasion de la conférence, un flyer était distribué. Voici quelques détails&nbsp;:
 * [À propos du contraste de couleurs de texte](http://www.ekino.com/a-propos-du-contraste-de-couleurs-de-texte)
