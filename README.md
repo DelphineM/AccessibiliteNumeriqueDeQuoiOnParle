@@ -22,6 +22,7 @@ Sommaire :
 
 * [Vulgariser l'accessibilité](http://blog.temesis.com/post/2006/10/31/193-vulgariser-l-accessibilite)
 * [Plonger dans l'accessibilité](http://www.la-grange.net/accessibilite/)
+* [Les bénéfices de l'accessibilité numérique (infographie)](http://www.ekino.com/benefices-de-laccessibilite/)
 
 ### Chiffres
 
